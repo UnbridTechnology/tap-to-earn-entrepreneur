@@ -1,0 +1,22 @@
+export const ptData = {
+  "VORTEX_PRE_LAUNCH": "ESTAMOS EM",
+  "VORTEX_PRE_LAUNCH_HIGHLIGHT": "PRÉ-LANÇAMENTO",
+  "VORTEX_HERO_DESCRIPTION": "VORTEX emerge como um sistema de geração de capital solidário com um objetivo claro: impactar positivamente as finanças de 1.000.000 de famílias. Esqueça os sistemas restritivos; aqui você tem controle absoluto em um ambiente projetado para que a riqueza flua e beneficie aqueles que realmente constroem comunidade.",
+  "VORTEX_UNLIMITED_GROWTH": "O VORTEX ESTÁ",
+  "VORTEX_UNLIMITED_GROWTH_HIGHLIGHT": "GIRANDO",
+  "VORTEX_CTA_DESCRIPTION": "A comunidade já está em movimento, canalizando capital real para suas próprias carteiras. Para tornar isso possível, projetamos o sistema VORTEX P2P de Pagamentos Múltiplos, um motor financeiro Web3 criado para que cada participação ativa gere novas oportunidades de renda e crescimento ilimitado.",
+  "VORTEX_JUMP_NOW": "Dê o salto hoje e garanta seu lugar no pré-lançamento",
+  "VORTEX_JOIN_UNIVERSE": "Junte-se ao universo",
+  "LOGIN_TITLE": "Iniciar Sessão",
+  "LOGIN_SEASON": "Season 1",
+  "LOGIN_REFERRAL": "Código de referência",
+  "LOGIN_WALLET": "Entrar com Wallet",
+  "LOGIN_OR": "ou",
+  "LOGIN_GOOGLE": "Entrar com Gmail",
+  "LOGIN_TELEGRAM": "Entrar com Telegram",
+  "LOGIN_TURNSTILE_PENDING": "Resolva o captcha de segurança antes de continuar.",
+  "LOGIN_RATE_LIMITED": "Muitas tentativas. Aguarde alguns minutos e tente novamente.",
+  "LOGIN_TURNSTILE_INVALID": "Falha na verificação de segurança. Tente novamente.",
+  "LOGIN_GOOGLE_ERROR": "Não foi possível entrar com o Google. Tente novamente.",
+  "LOGIN_TERMS": "Ao entrar, você aceita os termos e condições da plataforma."
+};

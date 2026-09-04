@@ -1,0 +1,23 @@
+export const profileData = {
+    "REFERRAL_LINK_TITLE": "Link de referidos",
+    "REFERRAL_LINK_ERROR": "Não foi possível carregar o link",
+    "REFERRAL_LINK_RETRY": "Tentar novamente",
+    "REFERRAL_LINK_SUBTITLE": "Expanda sua rede compartilhando seu link personalizado.",
+    "REFERRAL_LINK_COPY": "Copiar",
+    "REFERRAL_LINK_REWARD": "Ganhe 300 Fierce Coins ao convidar seus amigos",
+    "SYNC_CARD_TITLE": "Sincronização Automática",
+    "SYNC_CARD_TEXT": "Sua foto, capa e nome são atualizados automaticamente no Envision e em todas as nossas plataformas.",
+    "GIFTCASH_TITLE": "Seu GiftCash",
+    "GIFTCASH_PLAN_LABEL": "Plano de",
+    "GIFTCASH_REWARD_LABEL": "Ganha até",
+    "GIFTCASH_REWARD_DESC": "por cada novo direto na sua equipe",
+    "GIFTCASH_UPGRADE_BUTTON": "Melhorar meu GiftCash",
+    "GIFTCASH_EMPTY_TITLE": "GiftCash",
+    "GIFTCASH_EMPTY_TEXT": "Ative seu GiftCash para começar a ganhar recompensas ilimitadas por cada novo membro em sua equipe.",
+    "GIFTCASH_EMPTY_BUTTON": "Ativar GiftCash",
+    "GIFTCASH_LEVELS_ACTIVE": "Níveis ativos",
+    "GIFTCASH_DIRECTS": "Diretos",
+    "GIFTCASH_MAX_LEVEL": "Nível máximo",
+    "GIFTCASH_UNLOCK_TITLE": "5 Níveis de Ganhos Abertos",
+    "GIFTCASH_UNLOCK_REASON": "Potencialize seus ganhos! Todos os seus níveis estão abertos. Convide mais referidos e maximize suas comissões em cada nível."
+};

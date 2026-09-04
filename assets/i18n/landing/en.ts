@@ -1,0 +1,22 @@
+export const enData = {
+  "VORTEX_PRE_LAUNCH": "WE ARE IN",
+  "VORTEX_PRE_LAUNCH_HIGHLIGHT": "PRE-LAUNCH",
+  "VORTEX_HERO_DESCRIPTION": "VORTEX emerges as a capital generation system with a clear objective: to positively impact the finances of 1,000,000 families. We forget restrictive systems; here you have absolute control in a designed environment for wealth to flow and benefit those who truly build community.",
+  "VORTEX_UNLIMITED_GROWTH": "THE VORTEX IS",
+  "VORTEX_UNLIMITED_GROWTH_HIGHLIGHT": "SPINNING",
+  "VORTEX_CTA_DESCRIPTION": "The community is already in motion, channeling real capital to its own wallets. To make it possible, we designed the VORTEX P2P Multiple Payment system, a Web3 financial engine created so that every active participation generates new income and unlimited growth opportunities.",
+  "VORTEX_JUMP_NOW": "Make the jump today and secure your place in pre-launch",
+  "VORTEX_JOIN_UNIVERSE": "Join the universe",
+  "LOGIN_TITLE": "Sign In",
+  "LOGIN_SEASON": "Season 1",
+  "LOGIN_REFERRAL": "Referral code",
+  "LOGIN_WALLET": "Sign in with Wallet",
+  "LOGIN_OR": "or",
+  "LOGIN_GOOGLE": "Sign in with Gmail",
+  "LOGIN_TELEGRAM": "Sign in with Telegram",
+  "LOGIN_TURNSTILE_PENDING": "Please solve the security captcha before continuing.",
+  "LOGIN_RATE_LIMITED": "Too many attempts. Please wait a few minutes and try again.",
+  "LOGIN_TURNSTILE_INVALID": "Security verification failed. Please try again.",
+  "LOGIN_GOOGLE_ERROR": "Could not sign in with Google. Please try again.",
+  "LOGIN_TERMS": "By signing in you accept the platform's terms and conditions."
+};

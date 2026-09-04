@@ -1,0 +1,23 @@
+export const profileData = {
+    "REFERRAL_LINK_TITLE": "Referral link",
+    "REFERRAL_LINK_ERROR": "Could not load the link",
+    "REFERRAL_LINK_RETRY": "Retry",
+    "REFERRAL_LINK_SUBTITLE": "Expand your network by sharing your personalized link.",
+    "REFERRAL_LINK_COPY": "Copy",
+    "REFERRAL_LINK_REWARD": "Earn 300 Fierce Coins by inviting your friends",
+    "SYNC_CARD_TITLE": "Automatic Sync",
+    "SYNC_CARD_TEXT": "Your photo, cover and name are automatically updated on Envision and all our platforms.",
+    "GIFTCASH_TITLE": "Your GiftCash",
+    "GIFTCASH_PLAN_LABEL": "Plan of",
+    "GIFTCASH_REWARD_LABEL": "Earn up to",
+    "GIFTCASH_REWARD_DESC": "for each new direct in your team",
+    "GIFTCASH_UPGRADE_BUTTON": "Upgrade my GiftCash",
+    "GIFTCASH_EMPTY_TITLE": "GiftCash",
+    "GIFTCASH_EMPTY_TEXT": "Activate your GiftCash to start earning unlimited rewards for each new member in your team.",
+    "GIFTCASH_EMPTY_BUTTON": "Activate GiftCash",
+    "GIFTCASH_LEVELS_ACTIVE": "Active levels",
+    "GIFTCASH_DIRECTS": "Directs",
+    "GIFTCASH_MAX_LEVEL": "Max level",
+    "GIFTCASH_UNLOCK_TITLE": "5 Levels of Earnings Open",
+    "GIFTCASH_UNLOCK_REASON": "Boost your earnings! All your levels are open. Invite more referrals and maximize your commissions at every level."
+};
