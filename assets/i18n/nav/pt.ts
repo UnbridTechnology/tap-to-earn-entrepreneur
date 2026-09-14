@@ -27,5 +27,9 @@ export const ptData = {
   "NAV_BRAND_VISIBILITY": "Portal Spotlight",
   "NAV_ROADMAP": "Roadmap",
   "NAV_RAFFLE": "Sorteio",
-  "NAV_RANKING": "Ranking"
+  "NAV_RANKING": "Ranking",
+  "LOGIN_WALLET": "Entrar com Wallet",
+  "LOGIN_GOOGLE": "Entrar com Gmail",
+  "LOGIN_TELEGRAM": "Entrar com Telegram",
+  "LOGIN_CHOOSE_METHOD": "Escolha como entrar"
 };
