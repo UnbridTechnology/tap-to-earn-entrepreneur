@@ -55,7 +55,7 @@ export const esData = {
     "STEP_2_DESC": "Trae a tu primer aliado directo y recibe 80 USDT en recompensas al instante.",
     "STEP_2_BADGE": "1 jugador",
     "STEP_3_NAME": "Expansión automática",
-    "STEP_3_DESC": "Desde ahí, empiezas a recibir recompensas por los jugadores que traen tus aliados, hasta 4 capas de tu red. Cada nuevo jugador activa un flujo constante, sin necesidad de cumplir requisitos ocultos ni desbloquear nada.",
+    "STEP_3_DESC": "Desde ahí, empiezas a recibir recompensas por los jugadores que traen tus aliados, hasta 5 niveles de tu red. Cada nuevo jugador activa un flujo constante, sin necesidad de cumplir requisitos ocultos ni desbloquear nada.",
     "STEP_3_BADGE": "Crecimiento continuo",
     "STEP_4_NAME": "",
     "STEP_4_DESC": "",

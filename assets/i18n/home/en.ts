@@ -55,7 +55,7 @@ export const enData = {
     "STEP_2_DESC": "Bring your first direct ally and receive 80 USDT in rewards instantly.",
     "STEP_2_BADGE": "1 player",
     "STEP_3_NAME": "Automatic expansion",
-    "STEP_3_DESC": "From there, you start receiving rewards for the players your allies bring in, up to 4 layers deep in your network. Each new player activates a steady flow, with no hidden requirements or anything to unlock.",
+    "STEP_3_DESC": "From there, you start receiving rewards for the players your allies bring in, up to 5 levels deep in your network. Each new player activates a steady flow, with no hidden requirements or anything to unlock.",
     "STEP_3_BADGE": "Continuous growth",
     "STEP_4_NAME": "",
     "STEP_4_DESC": "",
