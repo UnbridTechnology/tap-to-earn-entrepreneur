@@ -1,0 +1,1 @@
+import{K as t,qa as n}from"./chunk-HU5ZGE7B.js";var m=(()=>{class e{static{this.\u0275fac=function(i){return new(i||e)}}static{this.\u0275mod=n({type:e})}static{this.\u0275inj=t({})}}return e})();export{m as a};
