@@ -19,7 +19,7 @@ export const enData = {
   "NAV_SIDEBAR_TITLE": "Menu",
   "NAV_HOME": "Home",
   "NAV_NETWORK": "My Network",
-  "NAV_FIERCE": "Fierce",
+  "NAV_FIERCE": "Coin",
   "NAV_SWAP": "Swap",
   "NAV_PROFILE": "Profile",
   "NAV_RESOURCES": "Resources",

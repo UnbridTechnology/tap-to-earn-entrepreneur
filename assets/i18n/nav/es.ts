@@ -19,7 +19,7 @@ export const esData = {
   "NAV_SIDEBAR_TITLE": "Menu",
   "NAV_HOME": "Inicio",
   "NAV_NETWORK": "Mi Red",
-  "NAV_FIERCE": "Fierce",
+  "NAV_FIERCE": "Coin",
   "NAV_SWAP": "Swap",
   "NAV_PROFILE": "Perfil",
   "NAV_RESOURCES": "Recursos",

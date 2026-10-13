@@ -15,7 +15,7 @@ export const ptData = {
   "NAV_SIDEBAR_TITLE": "Menu",
   "NAV_HOME": "Início",
   "NAV_NETWORK": "Minha Rede",
-  "NAV_FIERCE": "Fierce",
+  "NAV_FIERCE": "Coin",
   "NAV_SWAP": "Swap",
   "NAV_PROFILE": "Perfil",
   "NAV_RESOURCES": "Recursos",
