@@ -18,5 +18,7 @@ export const esData = {
   "LOGIN_RATE_LIMITED": "Demasiados intentos. Espera unos minutos e inténtalo de nuevo.",
   "LOGIN_TURNSTILE_INVALID": "Verificación de seguridad fallida. Inténtalo de nuevo.",
   "LOGIN_GOOGLE_ERROR": "No se pudo iniciar sesión con Google. Inténtalo de nuevo.",
+  "LOGIN_WALLET_ERROR": "No se pudo iniciar sesión con tu wallet. Inténtalo de nuevo.",
+  "LOGIN_WALLET_SIGNATURE_ERROR": "La firma fue cancelada o falló. Aprueba la solicitud de firma en tu wallet para ingresar.",
   "LOGIN_TERMS": "Al ingresar aceptas los términos y condiciones de la plataforma."
 };

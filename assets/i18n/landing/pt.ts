@@ -18,5 +18,7 @@ export const ptData = {
   "LOGIN_RATE_LIMITED": "Muitas tentativas. Aguarde alguns minutos e tente novamente.",
   "LOGIN_TURNSTILE_INVALID": "Falha na verificação de segurança. Tente novamente.",
   "LOGIN_GOOGLE_ERROR": "Não foi possível entrar com o Google. Tente novamente.",
+  "LOGIN_WALLET_ERROR": "Não foi possível entrar com a sua wallet. Tente novamente.",
+  "LOGIN_WALLET_SIGNATURE_ERROR": "A assinatura foi cancelada ou falhou. Aprove a solicitação de assinatura na sua wallet para entrar.",
   "LOGIN_TERMS": "Ao entrar, você aceita os termos e condições da plataforma."
 };

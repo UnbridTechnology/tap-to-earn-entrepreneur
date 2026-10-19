@@ -18,5 +18,7 @@ export const enData = {
   "LOGIN_RATE_LIMITED": "Too many attempts. Please wait a few minutes and try again.",
   "LOGIN_TURNSTILE_INVALID": "Security verification failed. Please try again.",
   "LOGIN_GOOGLE_ERROR": "Could not sign in with Google. Please try again.",
+  "LOGIN_WALLET_ERROR": "Could not sign in with your wallet. Please try again.",
+  "LOGIN_WALLET_SIGNATURE_ERROR": "The signature was cancelled or failed. Approve the signature request in your wallet to sign in.",
   "LOGIN_TERMS": "By signing in you accept the platform's terms and conditions."
 };
