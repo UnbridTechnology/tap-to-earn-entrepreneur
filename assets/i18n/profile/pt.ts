@@ -28,7 +28,7 @@ export const profileData = {
     "COMMISSIONS_BADGE_VISION": "energia pendente",
     "COMMISSIONS_BADGE_ACCUMULATING": "Acumulando visões",
     "COMMISSIONS_ACCUMULATING_TITLE": "Você recebe comissões enquanto acumula",
-    "COMMISSIONS_ACCUMULATING_TEXT": "Seus 5 níveis estão ativos. Quando acumular ${{target}} USDT em visões, seu ciclo de 30 dias começará.",
+    "COMMISSIONS_ACCUMULATING_TEXT": "Seus 5 níveis estão ativos. Quando acumular ${{target}} USDT, seu ciclo de 30 dias começará.",
     "COMMISSIONS_FULL_TITLE": "Você recebe 100% das suas comissões",
     "COMMISSIONS_FULL_TEXT": "Seus 5 níveis de comissões de rede estão habilitados.",
     "COMMISSIONS_VISION_TITLE": "Sua energia está crescendo",
