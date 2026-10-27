@@ -24,7 +24,7 @@ export const ptData = {
   "NAV_MINI_GAMES": "Mini Jogos",
   "NAV_FITNESS_TOURNAMENTS": "Torneios Fitness",
   "NAV_COMING_SOON": "Em Breve",
-  "NAV_BRAND_VISIBILITY": "Portal Spotlight",
+  "NAV_BRAND_VISIBILITY": "Espaço Publicitário",
   "NAV_ROADMAP": "Roadmap",
   "NAV_RAFFLE": "Sorteio",
   "NAV_RANKING": "Ranking",

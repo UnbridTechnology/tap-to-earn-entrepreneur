@@ -28,7 +28,7 @@ export const esData = {
   "NAV_MINI_GAMES": "Minijuegos",
   "NAV_FITNESS_TOURNAMENTS": "Torneos Fitness",
   "NAV_COMING_SOON": "Pronto",
-  "NAV_BRAND_VISIBILITY": "Portal Spotlight",
+  "NAV_BRAND_VISIBILITY": "Espacio Publicitario",
   "NAV_ROADMAP": "Roadmap",
   "NAV_RAFFLE": "Sorteo",
   "NAV_RANKING": "Ranking"

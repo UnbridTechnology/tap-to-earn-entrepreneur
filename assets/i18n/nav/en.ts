@@ -28,7 +28,7 @@ export const enData = {
   "NAV_MINI_GAMES": "Mini Games",
   "NAV_FITNESS_TOURNAMENTS": "Fitness Tournaments",
   "NAV_COMING_SOON": "Coming Soon",
-  "NAV_BRAND_VISIBILITY": "Portal Spotlight",
+  "NAV_BRAND_VISIBILITY": "Advertising Space",
   "NAV_ROADMAP": "Roadmap",
   "NAV_RAFFLE": "Raffle",
   "NAV_RANKING": "Ranking"
