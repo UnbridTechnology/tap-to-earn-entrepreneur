@@ -1,1 +1,0 @@
-import{I as t,oa as n}from"./chunk-ZYJ5G3LI.js";var m=(()=>{class e{static{this.\u0275fac=function(i){return new(i||e)}}static{this.\u0275mod=n({type:e})}static{this.\u0275inj=t({})}}return e})();export{m as a};
